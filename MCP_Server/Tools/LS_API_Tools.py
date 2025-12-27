@@ -38,8 +38,10 @@ def get_activities(input_dir: str = None):
         with open(activity_file, "r", encoding="utf-8") as f:
             activity_data = json.load(f)
             response.append(activity_data)
-
+    print("===============================================")
+    print("GET Activities Response:")
     print(response, "\n")
+    print("===============================================")
     return response
 
 # Test the tool's underlying function
