@@ -7,3 +7,11 @@ audio/
 reflection*
 summaries/
 logs/
+.vscode/
+.idea/
+.mcp.json
+Rubrics/
+MOCK_LS_API_ENDPOINTS/
+prompts/
+.claude/
+nul

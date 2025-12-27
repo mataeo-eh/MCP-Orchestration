@@ -1,7 +1,7 @@
 from __future__ import annotations
 #!/usr/bin/env python3
 """
-grade_osce.py – Skeleton for SDI-4233/5233 LiteLLM + OSCE (AI Sandbox) Assignment
+grade_osce.py - Skeleton for SDI-4233/5233 LiteLLM + OSCE (AI Sandbox) Assignment
 
 This script is a **starting point** for your OSCE-style grading project.
 
@@ -20,7 +20,7 @@ Usage (example):
     $ export OPENAI_MODEL="anthropic.claude-3-haiku-20240307-v1:0"
     $ python3 grade_osce.py --transcripts-dir ./transcripts --output-dir ./results
 
-This file is intentionally incomplete – you are expected to fill in the pieces.
+This file is intentionally incomplete - you are expected to fill in the pieces.
 """
 from dotenv import load_dotenv
 load_dotenv()  # reads .env into environment
