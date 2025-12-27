@@ -1,0 +1,9 @@
+.venv
+ENV/
+*pycache*
+.env
+student_transcripts/
+audio/
+reflection*
+summaries/
+logs/
