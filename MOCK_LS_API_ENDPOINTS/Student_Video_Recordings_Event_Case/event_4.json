@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "total": 5,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "videoRecordingId": "VR-EVT4-ALEX-SP4",
+      "eventId": "EVT-004",
+      "caseId": "CASE-004",
+      "caseNumber": "SP4",
+      "studentId": "STU-ALEX",
+      "studentName": "Alex",
+      "transcriptPath": "./student_transcripts/alex_SP4.txt",
+      "recordingDuration": 1275,
+      "recordedAt": "2024-10-20T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-EVT4-BLAKE-SP4",
+      "eventId": "EVT-004",
+      "caseId": "CASE-004",
+      "caseNumber": "SP4",
+      "studentId": "STU-BLAKE",
+      "studentName": "Blake",
+      "transcriptPath": "./student_transcripts/blake_SP4.txt",
+      "recordingDuration": 1140,
+      "recordedAt": "2024-10-20T09:15:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-EVT4-CASEY-SP4",
+      "eventId": "EVT-004",
+      "caseId": "CASE-004",
+      "caseNumber": "SP4",
+      "studentId": "STU-CASEY",
+      "studentName": "Casey",
+      "transcriptPath": "./student_transcripts/casey_SP4.txt",
+      "recordingDuration": 1350,
+      "recordedAt": "2024-10-20T09:30:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-EVT4-DANA-SP4",
+      "eventId": "EVT-004",
+      "caseId": "CASE-004",
+      "caseNumber": "SP4",
+      "studentId": "STU-DANA",
+      "studentName": "Dana",
+      "transcriptPath": "./student_transcripts/dana_SP4.txt",
+      "recordingDuration": 1085,
+      "recordedAt": "2024-10-20T09:45:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-EVT4-ELI-SP4",
+      "eventId": "EVT-004",
+      "caseId": "CASE-004",
+      "caseNumber": "SP4",
+      "studentId": "STU-ELI",
+      "studentName": "Eli",
+      "transcriptPath": "./student_transcripts/eli_SP4.txt",
+      "recordingDuration": 1430,
+      "recordedAt": "2024-10-20T10:00:00Z",
+      "status": "completed"
+    }
+  ]
+}

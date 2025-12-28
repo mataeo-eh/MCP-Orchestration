@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "total": 3,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "activityId": "ACT-001",
+      "title": "Clinical Skills Assessment - Fall 2024",
+      "startDate": "2024-09-15T08:00:00Z",
+      "endDate": "2024-09-15T17:00:00Z"
+    },
+    {
+      "activityId": "ACT-002",
+      "title": "OSCE Examination - Module 3",
+      "startDate": "2024-10-20T09:00:00Z",
+      "endDate": "2024-10-20T16:00:00Z"
+    },
+    {
+      "activityId": "ACT-003",
+      "title": "Standardized Patient Encounter - Primary Care",
+      "startDate": "2024-11-05T08:30:00Z",
+      "endDate": "2024-11-05T15:30:00Z"
+    }
+  ]
+}

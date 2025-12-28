@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "total": 2,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "eventId": "EVT-007",
+      "activityId": "ACT-004",
+      "eventName": "NBOME PE Preparation - Group 1",
+      "eventDate": "2024-12-01T10:00:00Z",
+      "nbomeReady": true,
+      "nbomeSubmissionStatus": "ready",
+      "totalStudents": 15,
+      "completedAssessments": 15
+    },
+    {
+      "eventId": "EVT-008",
+      "activityId": "ACT-004",
+      "eventName": "NBOME PE Preparation - Group 2",
+      "eventDate": "2024-12-01T14:00:00Z",
+      "nbomeReady": true,
+      "nbomeSubmissionStatus": "ready",
+      "totalStudents": 18,
+      "completedAssessments": 18
+    }
+  ]
+}

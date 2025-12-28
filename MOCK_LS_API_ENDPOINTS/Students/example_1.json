@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "total": 5,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "studentId": "STU-001",
+      "fullName": "Alex Johnson",
+      "nbomeId": "NBOME-2024-001",
+      "email": "alex.johnson@medschool.edu",
+      "enrollmentYear": 2022,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-002",
+      "fullName": "Blake Williams",
+      "nbomeId": "NBOME-2024-002",
+      "email": "blake.williams@medschool.edu",
+      "enrollmentYear": 2022,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-003",
+      "fullName": "Casey Martinez",
+      "nbomeId": "NBOME-2024-003",
+      "email": "casey.martinez@medschool.edu",
+      "enrollmentYear": 2022,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-004",
+      "fullName": "Dana Lee",
+      "nbomeId": "NBOME-2024-004",
+      "email": "dana.lee@medschool.edu",
+      "enrollmentYear": 2022,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-005",
+      "fullName": "Eli Thompson",
+      "nbomeId": "NBOME-2024-005",
+      "email": "eli.thompson@medschool.edu",
+      "enrollmentYear": 2022,
+      "status": "active"
+    }
+  ]
+}

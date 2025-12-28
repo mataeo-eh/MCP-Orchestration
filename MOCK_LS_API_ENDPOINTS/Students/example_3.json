@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "total": 4,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "studentId": "STU-011",
+      "fullName": "Quinn Taylor",
+      "nbomeId": "NBOME-2024-011",
+      "email": "quinn.taylor@medschool.edu",
+      "enrollmentYear": 2021,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-012",
+      "fullName": "Skyler Moore",
+      "nbomeId": "NBOME-2024-012",
+      "email": "skyler.moore@medschool.edu",
+      "enrollmentYear": 2021,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-JOHN",
+      "fullName": "John Smith",
+      "nbomeId": "NBOME-2024-JOHN",
+      "email": "john.smith@medschool.edu",
+      "enrollmentYear": 2021,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-MARY",
+      "fullName": "Mary Johnson",
+      "nbomeId": "NBOME-2024-MARY",
+      "email": "mary.johnson@medschool.edu",
+      "enrollmentYear": 2021,
+      "status": "active"
+    }
+  ]
+}

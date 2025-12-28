@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "total": 3,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "caseId": "CASE-010",
+      "caseNumber": "SP10",
+      "patientName": "David Kowalski",
+      "presentingComplaint": "Acute onset unilateral facial droop, arm weakness, and slurred speech beginning 45 minutes ago"
+    },
+    {
+      "caseId": "CASE-011",
+      "caseNumber": "SP11",
+      "patientName": "Angela Foster",
+      "presentingComplaint": "Worsening joint pain and morning stiffness in bilateral hands and wrists, with visible swelling of MCP and PIP joints"
+    },
+    {
+      "caseId": "CASE-012",
+      "caseNumber": "SP12",
+      "patientName": "Thomas Blackwell",
+      "presentingComplaint": "Intermittent claudication in bilateral lower extremities, decreased peripheral pulses, and non-healing ulcer on left great toe"
+    }
+  ]
+}

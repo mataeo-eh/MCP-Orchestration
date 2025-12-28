@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "total": 5,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "videoRecordingId": "VR-JOHN-001",
+      "eventId": "EVT-001",
+      "studentId": "STU-JOHN",
+      "studentName": "John Smith",
+      "nbomeId": "NBOME-2024-JOHN",
+      "caseId": "CASE-001",
+      "caseNumber": "SP1",
+      "recordingPath": "./audio/John/003e0611-c098-4e2e-9d8a-baf0057df3f1.wav",
+      "recordingDuration": 1245,
+      "recordedAt": "2024-09-15T08:30:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-JOHN-002",
+      "eventId": "EVT-001",
+      "studentId": "STU-JOHN",
+      "studentName": "John Smith",
+      "nbomeId": "NBOME-2024-JOHN",
+      "caseId": "CASE-002",
+      "caseNumber": "SP2",
+      "recordingPath": "./audio/John/017af3f5-d145-41a2-95a4-5acfa0f1bd06.wav",
+      "recordingDuration": 1180,
+      "recordedAt": "2024-09-15T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-JOHN-003",
+      "eventId": "EVT-001",
+      "studentId": "STU-JOHN",
+      "studentName": "John Smith",
+      "nbomeId": "NBOME-2024-JOHN",
+      "caseId": "CASE-003",
+      "caseNumber": "SP3",
+      "recordingPath": "./audio/John/0279cd12-386a-4d63-96ac-61a3f0289fc7.wav",
+      "recordingDuration": 1320,
+      "recordedAt": "2024-09-15T09:30:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-JOHN-004",
+      "eventId": "EVT-001",
+      "studentId": "STU-JOHN",
+      "studentName": "John Smith",
+      "nbomeId": "NBOME-2024-JOHN",
+      "caseId": "CASE-004",
+      "caseNumber": "SP4",
+      "recordingPath": "./audio/John/0a2d378d-a42d-47fd-a387-157fba349a2e.wav",
+      "recordingDuration": 1095,
+      "recordedAt": "2024-09-15T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-JOHN-005",
+      "eventId": "EVT-001",
+      "studentId": "STU-JOHN",
+      "studentName": "John Smith",
+      "nbomeId": "NBOME-2024-JOHN",
+      "caseId": "CASE-005",
+      "caseNumber": "SP5",
+      "recordingPath": "./audio/John/7e6d8fe7-d665-4f3d-ad17-9a6e53ee69a2.wav",
+      "recordingDuration": 1410,
+      "recordedAt": "2024-09-15T10:30:00Z",
+      "status": "completed"
+    }
+  ]
+}

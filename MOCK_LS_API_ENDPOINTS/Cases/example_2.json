@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "total": 4,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "caseId": "CASE-006",
+      "caseNumber": "SP6",
+      "patientName": "William Nakamura",
+      "presentingComplaint": "Progressive fatigue, unexplained weight loss of 15 pounds over 2 months, and night sweats with palpable cervical lymphadenopathy"
+    },
+    {
+      "caseId": "CASE-007",
+      "caseNumber": "SP7",
+      "patientName": "Sarah Mitchell",
+      "presentingComplaint": "Acute onset right lower quadrant abdominal pain with anorexia, low-grade fever, and rebound tenderness"
+    },
+    {
+      "caseId": "CASE-008",
+      "caseNumber": "SP8",
+      "patientName": "Michael O'Brien",
+      "presentingComplaint": "Chronic productive cough with hemoptysis, unintentional weight loss, and history of 40 pack-year smoking"
+    },
+    {
+      "caseId": "CASE-009",
+      "caseNumber": "SP9",
+      "patientName": "Jennifer Patel",
+      "presentingComplaint": "Polyuria, polydipsia, and blurred vision with recent unintentional weight loss despite increased appetite"
+    }
+  ]
+}

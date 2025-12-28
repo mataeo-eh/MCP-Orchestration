@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "total": 2,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "eventId": "EVT-004",
+      "activityId": "ACT-002",
+      "eventName": "OSCE Examination - Morning Block",
+      "eventDate": "2024-10-20T09:00:00Z",
+      "location": "Clinical Skills Lab - Building A",
+      "status": "scheduled",
+      "nbomeReady": false
+    },
+    {
+      "eventId": "EVT-005",
+      "activityId": "ACT-002",
+      "eventName": "OSCE Examination - Afternoon Block",
+      "eventDate": "2024-10-20T13:00:00Z",
+      "location": "Clinical Skills Lab - Building A",
+      "status": "scheduled",
+      "nbomeReady": false
+    }
+  ]
+}

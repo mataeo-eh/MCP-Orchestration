@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "total": 2,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "activityId": "ACT-004",
+      "title": "NBOME PE Preparation Session",
+      "startDate": "2024-12-01T10:00:00Z",
+      "endDate": "2024-12-01T14:00:00Z"
+    },
+    {
+      "activityId": "ACT-005",
+      "title": "Simulation Lab - Emergency Medicine",
+      "startDate": "2024-12-10T07:00:00Z",
+      "endDate": "2024-12-10T18:00:00Z"
+    }
+  ]
+}

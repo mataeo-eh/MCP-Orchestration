@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "total": 1,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "eventId": "EVT-006",
+      "activityId": "ACT-003",
+      "eventName": "Standardized Patient Encounter - Primary Care",
+      "eventDate": "2024-11-05T08:30:00Z",
+      "location": "SP Encounter Suite - Floor 2",
+      "status": "in_progress",
+      "nbomeReady": true
+    }
+  ]
+}

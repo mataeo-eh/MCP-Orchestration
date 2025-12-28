@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "total": 5,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "studentId": "STU-006",
+      "fullName": "Morgan Davis",
+      "nbomeId": "NBOME-2024-006",
+      "email": "morgan.davis@medschool.edu",
+      "enrollmentYear": 2023,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-007",
+      "fullName": "Taylor Brown",
+      "nbomeId": "NBOME-2024-007",
+      "email": "taylor.brown@medschool.edu",
+      "enrollmentYear": 2023,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-008",
+      "fullName": "Jordan Garcia",
+      "nbomeId": "NBOME-2024-008",
+      "email": "jordan.garcia@medschool.edu",
+      "enrollmentYear": 2023,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-009",
+      "fullName": "Riley Anderson",
+      "nbomeId": "NBOME-2024-009",
+      "email": "riley.anderson@medschool.edu",
+      "enrollmentYear": 2023,
+      "status": "active"
+    },
+    {
+      "studentId": "STU-010",
+      "fullName": "Avery Wilson",
+      "nbomeId": "NBOME-2024-010",
+      "email": "avery.wilson@medschool.edu",
+      "enrollmentYear": 2023,
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "total": 5,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "assessmentId": "ASM-001",
+      "eventId": "EVT-001",
+      "studentId": "STU-001",
+      "studentName": "Alex Johnson",
+      "nbomeId": "NBOME-2024-001",
+      "caseId": "CASE-001",
+      "caseNumber": "SP1",
+      "spName": "Margaret Thompson",
+      "score": 85,
+      "passStatus": "pass",
+      "completedAt": "2024-09-15T09:45:00Z"
+    },
+    {
+      "assessmentId": "ASM-002",
+      "eventId": "EVT-001",
+      "studentId": "STU-002",
+      "studentName": "Blake Williams",
+      "nbomeId": "NBOME-2024-002",
+      "caseId": "CASE-001",
+      "caseNumber": "SP1",
+      "spName": "Margaret Thompson",
+      "score": 78,
+      "passStatus": "pass",
+      "completedAt": "2024-09-15T09:50:00Z"
+    },
+    {
+      "assessmentId": "ASM-003",
+      "eventId": "EVT-001",
+      "studentId": "STU-003",
+      "studentName": "Casey Martinez",
+      "nbomeId": "NBOME-2024-003",
+      "caseId": "CASE-001",
+      "caseNumber": "SP1",
+      "spName": "Margaret Thompson",
+      "score": 92,
+      "passStatus": "pass",
+      "completedAt": "2024-09-15T09:55:00Z"
+    },
+    {
+      "assessmentId": "ASM-004",
+      "eventId": "EVT-001",
+      "studentId": "STU-004",
+      "studentName": "Dana Lee",
+      "nbomeId": "NBOME-2024-004",
+      "caseId": "CASE-001",
+      "caseNumber": "SP1",
+      "spName": "Margaret Thompson",
+      "score": 65,
+      "passStatus": "fail",
+      "completedAt": "2024-09-15T10:00:00Z"
+    },
+    {
+      "assessmentId": "ASM-005",
+      "eventId": "EVT-001",
+      "studentId": "STU-005",
+      "studentName": "Eli Thompson",
+      "nbomeId": "NBOME-2024-005",
+      "caseId": "CASE-001",
+      "caseNumber": "SP1",
+      "spName": "Margaret Thompson",
+      "score": 88,
+      "passStatus": "pass",
+      "completedAt": "2024-09-15T10:05:00Z"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "total": 5,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "caseId": "CASE-001",
+      "caseNumber": "SP1",
+      "patientName": "Margaret Thompson",
+      "presentingComplaint": "Persistent chest pain radiating to left arm with associated dyspnea and diaphoresis for the past 2 hours"
+    },
+    {
+      "caseId": "CASE-002",
+      "caseNumber": "SP2",
+      "patientName": "Robert Chen",
+      "presentingComplaint": "Severe epigastric pain with nausea and vomiting, worse after eating fatty foods, positive Murphy's sign on examination"
+    },
+    {
+      "caseId": "CASE-003",
+      "caseNumber": "SP3",
+      "patientName": "Patricia Williams",
+      "presentingComplaint": "Progressive shortness of breath and bilateral lower extremity edema, orthopnea requiring 3 pillows to sleep"
+    },
+    {
+      "caseId": "CASE-004",
+      "caseNumber": "SP4",
+      "patientName": "James Rodriguez",
+      "presentingComplaint": "Sudden onset severe headache described as 'worst headache of my life' with photophobia and neck stiffness"
+    },
+    {
+      "caseId": "CASE-005",
+      "caseNumber": "SP5",
+      "patientName": "Elizabeth Morrison",
+      "presentingComplaint": "Recurrent episodes of palpitations with lightheadedness, documented irregular pulse on home monitoring"
+    }
+  ]
+}

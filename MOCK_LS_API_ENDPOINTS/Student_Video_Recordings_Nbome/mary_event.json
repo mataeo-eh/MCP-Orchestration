@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "total": 5,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "videoRecordingId": "VR-MARY-001",
+      "eventId": "EVT-002",
+      "studentId": "STU-MARY",
+      "studentName": "Mary Johnson",
+      "nbomeId": "NBOME-2024-MARY",
+      "caseId": "CASE-001",
+      "caseNumber": "SP1",
+      "recordingPath": "./audio/Mary/001345d0-63da-4dcd-bb04-faf94a251a56.wav",
+      "recordingDuration": 1275,
+      "recordedAt": "2024-09-15T10:30:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-MARY-002",
+      "eventId": "EVT-002",
+      "studentId": "STU-MARY",
+      "studentName": "Mary Johnson",
+      "nbomeId": "NBOME-2024-MARY",
+      "caseId": "CASE-002",
+      "caseNumber": "SP2",
+      "recordingPath": "./audio/Mary/001816bd-1ac4-4fbc-8d1b-78d2ff454ada.wav",
+      "recordingDuration": 1150,
+      "recordedAt": "2024-09-15T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-MARY-003",
+      "eventId": "EVT-002",
+      "studentId": "STU-MARY",
+      "studentName": "Mary Johnson",
+      "nbomeId": "NBOME-2024-MARY",
+      "caseId": "CASE-003",
+      "caseNumber": "SP3",
+      "recordingPath": "./audio/Mary/00522136-58c0-4f1f-9f9c-ec4cc58e59ee.wav",
+      "recordingDuration": 1385,
+      "recordedAt": "2024-09-15T11:30:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-MARY-004",
+      "eventId": "EVT-002",
+      "studentId": "STU-MARY",
+      "studentName": "Mary Johnson",
+      "nbomeId": "NBOME-2024-MARY",
+      "caseId": "CASE-004",
+      "caseNumber": "SP4",
+      "recordingPath": "./audio/Mary/02611e0d-3c1b-4b6a-a863-086a83f2c6bd.wav",
+      "recordingDuration": 1210,
+      "recordedAt": "2024-09-15T12:00:00Z",
+      "status": "completed"
+    },
+    {
+      "videoRecordingId": "VR-MARY-005",
+      "eventId": "EVT-002",
+      "studentId": "STU-MARY",
+      "studentName": "Mary Johnson",
+      "nbomeId": "NBOME-2024-MARY",
+      "caseId": "CASE-005",
+      "caseNumber": "SP5",
+      "recordingPath": "./audio/Mary/0335d0be-14de-40b7-b3ff-d14cfb0984fd.wav",
+      "recordingDuration": 1340,
+      "recordedAt": "2024-09-15T12:30:00Z",
+      "status": "completed"
+    }
+  ]
+}

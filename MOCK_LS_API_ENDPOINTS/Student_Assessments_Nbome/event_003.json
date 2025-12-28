@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "total": 3,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "assessmentId": "ASM-010",
+      "eventId": "EVT-006",
+      "studentId": "STU-010",
+      "studentName": "Avery Wilson",
+      "nbomeId": "NBOME-2024-010",
+      "caseId": "CASE-003",
+      "caseNumber": "SP3",
+      "spName": "Patricia Williams",
+      "score": 95,
+      "passStatus": "pass",
+      "completedAt": "2024-11-05T10:15:00Z"
+    },
+    {
+      "assessmentId": "ASM-011",
+      "eventId": "EVT-006",
+      "studentId": "STU-011",
+      "studentName": "Quinn Taylor",
+      "nbomeId": "NBOME-2024-011",
+      "caseId": "CASE-003",
+      "caseNumber": "SP3",
+      "spName": "Patricia Williams",
+      "score": 87,
+      "passStatus": "pass",
+      "completedAt": "2024-11-05T10:20:00Z"
+    },
+    {
+      "assessmentId": "ASM-012",
+      "eventId": "EVT-006",
+      "studentId": "STU-012",
+      "studentName": "Skyler Moore",
+      "nbomeId": "NBOME-2024-012",
+      "caseId": "CASE-003",
+      "caseNumber": "SP3",
+      "spName": "Patricia Williams",
+      "score": 79,
+      "passStatus": "pass",
+      "completedAt": "2024-11-05T10:25:00Z"
+    }
+  ]
+}

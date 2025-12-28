@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "total": 3,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "eventId": "EVT-001",
+      "activityId": "ACT-001",
+      "eventName": "Clinical Skills Assessment - Session A",
+      "eventDate": "2024-09-15T08:00:00Z",
+      "location": "Simulation Center - Room 101",
+      "status": "completed",
+      "nbomeReady": true
+    },
+    {
+      "eventId": "EVT-002",
+      "activityId": "ACT-001",
+      "eventName": "Clinical Skills Assessment - Session B",
+      "eventDate": "2024-09-15T10:30:00Z",
+      "location": "Simulation Center - Room 102",
+      "status": "completed",
+      "nbomeReady": true
+    },
+    {
+      "eventId": "EVT-003",
+      "activityId": "ACT-001",
+      "eventName": "Clinical Skills Assessment - Session C",
+      "eventDate": "2024-09-15T14:00:00Z",
+      "location": "Simulation Center - Room 103",
+      "status": "completed",
+      "nbomeReady": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "total": 3,
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    {
+      "eventId": "EVT-001",
+      "activityId": "ACT-001",
+      "eventName": "Clinical Skills Assessment - Session A",
+      "eventDate": "2024-09-15T08:00:00Z",
+      "nbomeReady": true,
+      "nbomeSubmissionStatus": "pending",
+      "totalStudents": 25,
+      "completedAssessments": 25
+    },
+    {
+      "eventId": "EVT-002",
+      "activityId": "ACT-001",
+      "eventName": "Clinical Skills Assessment - Session B",
+      "eventDate": "2024-09-15T10:30:00Z",
+      "nbomeReady": true,
+      "nbomeSubmissionStatus": "submitted",
+      "totalStudents": 22,
+      "completedAssessments": 22
+    },
+    {
+      "eventId": "EVT-006",
+      "activityId": "ACT-003",
+      "eventName": "Standardized Patient Encounter - Primary Care",
+      "eventDate": "2024-11-05T08:30:00Z",
+      "nbomeReady": true,
+      "nbomeSubmissionStatus": "pending",
+      "totalStudents": 30,
+      "completedAssessments": 28
+    }
+  ]
+}
