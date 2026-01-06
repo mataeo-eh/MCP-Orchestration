@@ -32,20 +32,45 @@ def get_activities(input_dir: str = None):
     if input_dir is None:
         input_dir = PROJECT_ROOT / "MOCK_LS_API_ENDPOINTS"
     activities_path = Path(input_dir) / "Activities/"
-    response = []
+    activities = []
 
     for activity_file in activities_path.glob("*.json"):
         with open(activity_file, "r", encoding="utf-8") as f:
             activity_data = json.load(f)
-            response.append(activity_data)
-    print("===============================================")
-    print("GET Activities Response:")
-    print(response, "\n")
-    print("===============================================")
-    return response
+            activities.append(activity_data)
+    return activities
 
-# Test the tool's underlying function
-result = get_activities.fn()  # Some MCP libraries expose .fn or .func
+@mcp.tool()
+def get_cases(input_dir: str = None):
+    '''
+    Get a list of activities from the Learningspace API
+    Returns:
+        Retrieve a list of cases.
+        Response includes case details such as patient name, presenting complaint, case ID, and case number.
+    '''
+    if input_dir is None:
+        input_dir = PROJECT_ROOT / "MOCK_LS_API_ENDPOINTS"
+    activities_path = Path(input_dir) / "Cases/"
+    cases = []
+
+    for activity_file in activities_path.glob("*.json"):
+        with open(activity_file, "r", encoding="utf-8") as f:
+            activity_data = json.load(f)
+            cases.append(activity_data)
+    return cases
+
+
+
+
+
+
+def debug():
+    # Test the tool's underlying function
+    result = get_activities.fn()  # Some MCP libraries expose .fn or .func
+    print("============================")
+    print("Debugging call for GET activities")
+    print(result)
+    print("============================")
 
 
 
@@ -66,6 +91,8 @@ if __name__ == "__main__":
 
     print(f"[config] Using model: {model}")
     print(f"[config] Using base URL: {base_url}")
+
+    debug()
 
     client = OpenAI(api_key=api_key, base_url=base_url)
 

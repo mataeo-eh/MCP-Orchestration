@@ -14,3 +14,4 @@ Rubrics/
 prompts/
 .claude/
 nul
+.python*
