@@ -15,3 +15,4 @@ prompts/
 .claude/
 nul
 .python*
+.prompts/
