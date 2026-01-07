@@ -13,7 +13,7 @@ import json
 import os
 from dataclasses import dataclass, asdict
 from typing import List, Dict, Any
-from openai import OpenAI
+from openai import OpenAI, AsyncOpenAI
 from dotenv import load_dotenv
 load_dotenv()  # reads .env into environment
 import requests
@@ -50,13 +50,13 @@ def get_cases(input_dir: str = None):
     '''
     if input_dir is None:
         input_dir = PROJECT_ROOT / "MOCK_LS_API_ENDPOINTS"
-    activities_path = Path(input_dir) / "Cases/"
+    cases_path = Path(input_dir) / "Cases/"
     cases = []
 
-    for activity_file in activities_path.glob("*.json"):
-        with open(activity_file, "r", encoding="utf-8") as f:
-            activity_data = json.load(f)
-            cases.append(activity_data)
+    for case_file in cases_path.glob("*.json"):
+        with open(case_file, "r", encoding="utf-8") as f:
+            case_data = json.load(f)
+            cases.append(case_data)
     return cases
 
 @mcp.tool()
